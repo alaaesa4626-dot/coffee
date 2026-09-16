@@ -1,0 +1,214 @@
+{
+    "desserts": {
+        "title": "🍰 الحلويات",
+
+        "items": [
+            {
+                "name": "كوكيز",
+                "price": 6,
+                "image": "images/iced-mocha.jpg"
+            },
+            {
+                "name": "تشيز كيك",
+                "price": 12,
+                "image": "images/cheesecake.jpg"
+            },
+            {
+                "name": "دونات",
+                "price": 5,
+                "image": "images/donut.jpg"
+            },
+            {
+                "name": "كب كيك",
+                "price": 6,
+                "image": "images/cupcake.jpg"
+            },
+            {
+                "name": "كيكة شوكولاتة",
+                "price": 12,
+                "image": "images/chocolate-cake.jpg"
+            }
+        ]
+    },
+
+
+    "pastries": {
+        "title": "🥐 المعجنات",
+
+        "salty": [
+            {
+                "name": "بيتزا",
+                "price": 12,
+                "image": "images/pizza.jpg"
+            },
+            {
+                "name": "كرواسون بالجبن",
+                "price": 10,
+                "image": "images/cheese-croissant.jpg"
+            },
+            {
+                "name": "سمبوسة",
+                "price": 8,
+                "image": "images/samosa.jpg"
+            },
+            {
+                "name": "فطيرة دجاج",
+                "price": 9,
+                "image": "images/chicken-pie.jpg"
+            },
+            {
+                "name": "فطيرة لحم",
+                "price": 9,
+                "image": "images/meat-pie.jpg"
+            }
+        ],
+
+        "sweet": [
+            {
+                "name": "كرواسون بالشوكولاتة",
+                "price": 10,
+                "image": "images/chocolate-croissant.jpg"
+            },
+            {
+                "name": "لفائف",
+                "price": 8,
+                "image": "images/rolls.jpg"
+            },
+            {
+                "name": "فطيرة النوتيلا",
+                "price": 9,
+                "image": "images/nutella-pie.jpg"
+            }
+        ]
+    },
+
+
+    "icecream": {
+        "title": "🍦 الآيسكريم",
+
+        "items": [
+            {
+                "name": "فراولة",
+                "price": 8,
+                "image": "images/strawberry.jpg"
+            },
+            {
+                "name": "شوكولاتة",
+                "price": 8,
+                "image": "images/chocolate.jpg"
+            },
+            {
+                "name": "فانيليا",
+                "price": 8,
+                "image": "images/vanilla.jpg"
+            },
+            {
+                "name": "كيوي",
+                "price": 8,
+                "image": "images/kiwi.jpg"
+            },
+            {
+                "name": "أوريو",
+                "price": 8,
+                "image": "images/oreo.jpg"
+            },
+            {
+                "name": "مانجو",
+                "price": 8,
+                "image": "images/mango.jpg"
+            },
+            {
+                "name": "نعناع",
+                "price": 8,
+                "image": "images/mint.jpg"
+            },
+            {
+                "name": "ليمون",
+                "price": 8,
+                "image": "images/lemon.jpg"
+            },
+            {
+                "name": "كرز",
+                "price": 8,
+                "image": "images/cherry.jpg"
+            },
+            {
+                "name": "توت",
+                "price": 8,
+                "image": "images/berries.jpg"
+            }
+        ],
+
+        "addons": [
+            "صوص شوكولاتة",
+            "كراميل",
+            "فراولة",
+            "أوريو",
+            "مكسرات",
+            "كريمة"
+        ]
+    },
+
+
+    "drinks": {
+        "title": "☕ المشروبات",
+
+        "hot": [
+            {
+                "name": "أمريكانو",
+                "price": 6,
+                "image": "images/americano.jpg"
+            },
+            {
+                "name": "كابتشينو",
+                "price": 8,
+                "image": "images/cappuccino.jpg"
+            },
+            {
+                "name": "هوت تشوكليت",
+                "price": 8,
+                "image": "images/hot-chocolate.jpg"
+            },
+            {
+                "name": "لاتيه",
+                "price": 8,
+                "image": "images/latte.jpg"
+            },
+            {
+                "name": "موكا",
+                "price": 9,
+                "image": "images/mocha.jpg"
+            }
+        ],
+
+        "cold": [
+            {
+                "name": "ميلك شيك",
+                "price": 10,
+                "image": "images/milkshake.jpg"
+            },
+            {
+                "name": "آيس موكا",
+                "price": 10,
+                "image": "images/iced-mocha.jpg"
+            },
+            {
+                "name": "آيس أمريكانو",
+                "price": 8,
+                "image": "images/iced-americano.jpg"
+            },
+            {
+                "name": "آيس لاتيه",
+                "price": 9,
+                "image": "images/iced-latte.jpg"
+            }
+        ]
+    }
+}
+
+
+
+
+
+
+
